@@ -1,2 +1,1 @@
-print('hi from adi')
-print('hi from aviel')
+print("hey git from adi")
